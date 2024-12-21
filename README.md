@@ -1,5 +1,7 @@
 # EXP5:ENCODER 8-3 DATA FLOW MODELLING
 
+Developed by:kanishka.v   RegisterNumber:24003362
+
 # **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -52,7 +54,7 @@ Figure 02  Encoder 8 * 3
 ![Screenshot (31)](https://github.com/user-attachments/assets/ff1feabe-d6df-4c30-9745-d8a305c2388b)
  
 
-Developed by:kanishka.v   RegisterNumber:24003362  */
+Developed by:kanishka.v   RegisterNumber:24003362
 
 # **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling:**
 
