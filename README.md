@@ -54,7 +54,6 @@ Figure 02  Encoder 8 * 3
 ![Screenshot (31)](https://github.com/user-attachments/assets/ff1feabe-d6df-4c30-9745-d8a305c2388b)
  
 
-Developed by:kanishka.v   RegisterNumber:24003362
 
 # **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling:**
 
